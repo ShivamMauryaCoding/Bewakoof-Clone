@@ -1,0 +1,398 @@
+{
+  "Product": [
+    {
+      "id": 6,
+      "image": "https://images.bewakoof.com/t640/men-s-green-wakanda-forever-graphic-printed-oversized-t-shirt-637169-1739771293-1.jpg",
+      "description": "Men's Green Wakanda Forever Graphic Printed Oversized T-shirt",
+      "price": "699",
+      "ratings": "4.5",
+      "lastPrice": "1449",
+      "discount": "51% OFF",
+      "category": "T-Shirt",
+      "size": "XL",
+      "listImage": [
+        "https://images.bewakoof.com/t96/men-s-green-wakanda-forever-graphic-printed-oversized-t-shirt-637169-1739771293-1.jpg",
+        "https://images.bewakoof.com/original/men-s-green-wakanda-forever-graphic-printed-oversized-t-shirt-637169-1715322938-2.jpg",
+        "https://images.bewakoof.com/t96/men-s-green-wakanda-forever-graphic-printed-oversized-t-shirt-637169-1715322942-3.jpg",
+        "https://images.bewakoof.com/t96/men-s-green-wakanda-forever-graphic-printed-oversized-t-shirt-637169-1715322946-4.jpg",
+        "https://images.bewakoof.com/t96/men-s-green-wakanda-forever-graphic-printed-oversized-t-shirt-637169-1715322950-5.jpg"
+      ]
+    },
+    {
+      "id": 7,
+      "image": "https://images.bewakoof.com/t640/men-s-grey-brain-wash-graphic-printed-t-shirt-591440-1739771074-1.jpg",
+      "description": "Men's Grey Brain Wash Graphic Printed T-shirt",
+      "price": "399",
+      "lastPrice": "1499",
+      "discount": "73% OFF",
+      "category": "T-Shirt",
+      "size": "XS",
+      "listImage": [
+        "https://images.bewakoof.com/t96/men-s-grey-brain-wash-graphic-printed-t-shirt-591440-1739771074-1.jpg",
+        "https://images.bewakoof.com/original/men-s-green-wakanda-forever-graphic-printed-oversized-t-shirt-637169-1715322938-2.jpg",
+        "https://images.bewakoof.com/original/men-s-grey-brain-wash-graphic-printed-t-shirt-591440-1721129888-2.jpg",
+        "https://images.bewakoof.com/t96/men-s-grey-brain-wash-graphic-printed-t-shirt-591440-1721129892-3.jpg",
+        "https://images.bewakoof.com/t96/men-s-grey-brain-wash-graphic-printed-t-shirt-591440-1721129901-5.jpg"
+      ]
+    },
+    {
+      "id": 8,
+      "image": "https://images.bewakoof.com/t640/men-s-black-iron-man-of-war-graphic-printed-t-shirt-220650-1730990210-1.jpg",
+      "description": "Men's Black Iron Man Of War Graphic Printed T-shirt",
+      "price": "449",
+      "ratings": "4.6",
+      "lastPrice": "1099",
+      "discount": "59% OFF",
+      "category": "T-Shirt",
+      "size": "S",
+      "listImage": [
+        "https://images.bewakoof.com/t96/men-s-black-iron-man-of-war-graphic-printed-t-shirt-220650-1730990210-1.jpg",
+        "https://images.bewakoof.com/original/men-s-black-iron-man-of-war-t-shirt-220650-1655747764-2.jpg",
+        "https://images.bewakoof.com/t96/men-s-black-iron-man-of-war-t-shirt-220650-1655747769-3.jpg",
+        "https://images.bewakoof.com/t96/men-s-black-iron-man-of-war-t-shirt-220650-1655747769-3.jpg",
+        "https://images.bewakoof.com/t96/men-s-black-iron-man-of-war-graphic-printed-t-shirt-220650-1730990210-1.jpg"
+      ]
+    },
+    {
+      "id": 9,
+      "image": "https://images.bewakoof.com/t640/men-s-black-the-dark-knight-graphic-printed-t-shirt-592032-1728641290-1.jpg",
+      "description": "Men's Black The Dark Knight Graphic Printed T-shirt",
+      "price": "449",
+      "ratings": "4.3",
+      "lastPrice": "1499",
+      "discount": "70% OFF",
+      "category": "T-Shirt",
+      "size": "XS",
+      "listImage": [
+        "https://images.bewakoof.com/t96/men-s-black-the-dark-knight-graphic-printed-t-shirt-592032-1728641290-1.jpg",
+        "https://images.bewakoof.com/original/men-s-black-the-dark-knight-graphic-printed-t-shirt-592032-1684137213-2.jpg",
+        "https://images.bewakoof.com/t96/men-s-black-the-dark-knight-graphic-printed-t-shirt-592032-1684137224-4.jpg"
+      ]
+    },
+    {
+      "id": 10,
+      "image": "https://images.bewakoof.com/t640/men-s-white-typography-oversized-shirt-660888-1750069120-1.jpg",
+      "description": "Men's White Typography Oversized Shirt",
+      "price": "1499",
+      "ratings": "4.5",
+      "category": "Shirt",
+      "size": "M",
+      "listImage": [
+        "https://images.bewakoof.com/t96/men-s-white-typography-oversized-shirt-660888-1750069120-1.jpg",
+        "https://images.bewakoof.com/original/men-s-white-typography-oversized-shirt-660888-1750069125-2.jpg",
+        "https://images.bewakoof.com/t96/men-s-white-typography-oversized-shirt-660888-1750069139-5.jpg",
+        "https://images.bewakoof.com/t96/men-s-white-typography-oversized-shirt-660888-1750069144-6.jpg",
+        "https://images.bewakoof.com/t96/men-s-white-typography-oversized-shirt-660888-1750069148-7.jpg"
+      ]
+    },
+    {
+      "id": 11,
+      "image": "https://images.bewakoof.com/t640/men-s-blue-off-white-checked-oversized-shirt-649875-1750068908-1.jpg",
+      "description": "Men's Blue & Off White Checked Oversized Shirt",
+      "price": "1499",
+      "ratings": "4.5",
+      "category": "Shirt",
+      "size": "XL",
+      "listImage": [
+        "https://images.bewakoof.com/t96/men-s-blue-off-white-checked-oversized-shirt-649875-1750068908-1.jpg",
+        "https://images.bewakoof.com/original/men-s-blue-off-white-checked-oversized-shirt-649875-1750068913-2.jpg",
+        "https://images.bewakoof.com/t96/men-s-blue-off-white-checked-oversized-shirt-649875-1750068918-4.jpg",
+        "https://images.bewakoof.com/t96/men-s-blue-off-white-checked-oversized-shirt-649875-1750068923-5.jpg",
+        "https://images.bewakoof.com/t96/men-s-blue-off-white-checked-oversized-shirt-649875-1750068927-6.jpg"
+      ]
+    },
+    {
+      "id": 12,
+      "image": "https://images.bewakoof.com/t640/men-s-grey-oversized-cargo-shirt-662095-1750068932-1.jpg",
+      "description": "Men's Grey Oversized Cargo Shirt",
+      "price": "1299",
+      "ratings": "4.4",
+      "category": "Shirt",
+      "size": "L",
+      "listImage": [
+        "https://images.bewakoof.com/t96/men-s-grey-oversized-cargo-shirt-662095-1750068932-1.jpg",
+        "https://images.bewakoof.com/original/men-s-grey-oversized-cargo-shirt-662095-1750068937-2.jpg",
+        "https://images.bewakoof.com/t96/men-s-grey-oversized-cargo-shirt-662095-1750068942-4.jpg",
+        "https://images.bewakoof.com/t96/men-s-grey-oversized-cargo-shirt-662095-1750068946-5.jpg",
+        "https://images.bewakoof.com/t96/men-s-grey-oversized-cargo-shirt-662095-1750068951-6.jpg"
+      ]
+    },
+    {
+      "id": 13,
+      "image": "https://images.bewakoof.com/t640/men-s-white-blue-tie-dye-oversized-shirt-586224-1722596876-1.jpg",
+      "description": "Men's White & Blue Tie & Dye Oversized Shirt",
+      "price": "449",
+      "discount": "71% off",
+      "category": "Shirt",
+      "size": "XL",
+      "listImage": [
+        "https://images.bewakoof.com/t96/men-s-white-blue-tie-dye-oversized-shirt-586224-1722596876-1.jpg",
+        "https://images.bewakoof.com/original/men-oversize-tie-dye-shirt-34-586224-1693911078-2.jpg",
+        "https://images.bewakoof.com/t96/men-oversize-tie-dye-shirt-34-586224-1693911084-3.jpg",
+        "https://images.bewakoof.com/t96/men-oversize-tie-dye-shirt-34-586224-1693911089-4.jpg",
+        "https://images.bewakoof.com/t96/men-oversize-tie-dye-shirt-34-586224-1693911095-5.jpg"
+      ]
+    },
+    {
+      "id": 14,
+      "image": "https://images.bewakoof.com/t640/men-s-black-oversized-cargo-joggers-552880-1736252662-1.jpg",
+      "description": "Men's Black Oversized Cargo Joggers",
+      "price": "899",
+      "ratings": "4.3",
+      "lastPrice": "2199",
+      "discount": "59% OFF",
+      "category": "Joggers",
+      "size": "XL",
+      "listImage": [
+        "https://images.bewakoof.com/t96/men-s-black-oversized-cargo-joggers-552880-1736252662-1.jpg",
+        "https://images.bewakoof.com/original/men-s-black-oversized-cargo-joggers-552880-1723536183-2.jpg",
+        "https://images.bewakoof.com/t96/men-s-black-oversized-cargo-joggers-552880-1723536188-3.jpg",
+        "https://images.bewakoof.com/t96/men-s-black-oversized-cargo-joggers-552880-1723536192-4.jpg",
+        "https://images.bewakoof.com/t96/men-s-black-oversized-cargo-joggers-552880-1723536196-5.jpg"
+      ]
+    },
+    {
+      "id": 15,
+      "image": "https://images.bewakoof.com/t640/men-s-grey-joggers-609817-1738054635-1.jpg",
+      "description": "Men's Grey Joggers",
+      "price": "999",
+      "ratings": "4.5",
+      "lastPrice": "1099",
+      "discount": "47% OFF",
+      "category": "Joggers",
+      "size": "L",
+      "listImage": [
+        "https://images.bewakoof.com/t96/men-s-grey-joggers-609817-1738054635-1.jpg",
+        "https://images.bewakoof.com/original/men-s-grey-joggers-609817-1699376351-2.jpg",
+        "https://images.bewakoof.com/t96/men-s-grey-joggers-609817-1699376356-3.jpg",
+        "https://images.bewakoof.com/t96/men-s-grey-joggers-609817-1699376362-4.jpg",
+        "https://images.bewakoof.com/t96/men-s-grey-joggers-609817-1749193445-5.jpg"
+      ]
+    },
+    {
+      "id": 16,
+      "image": "https://images.bewakoof.com/t640/men-s-black-oversized-joggers-646471-1735812970-1.jpg",
+      "description": "Men's Black Oversized Joggers",
+      "price": "999",
+      "ratings": "4.5",
+      "lastPrice": "2499",
+      "discount": "60% OFF",
+      "category": "Joggers",
+      "size": "M",
+      "listImage": [
+        "https://images.bewakoof.com/t96/men-s-black-oversized-joggers-646471-1735812970-1.jpg",
+        "https://images.bewakoof.com/original/men-s-black-oversized-joggers-646471-1732884825-2.jpg",
+        "https://images.bewakoof.com/t96/men-s-black-oversized-joggers-646471-1732884829-3.jpg",
+        "https://images.bewakoof.com/t96/men-s-black-oversized-joggers-646471-1732884834-4.jpg",
+        "https://images.bewakoof.com/t96/men-s-black-oversized-joggers-646471-1732884838-5.jpg"
+      ]
+    },
+    {
+      "id": 17,
+      "image": "https://images.bewakoof.com/t640/men-s-winter-moss-green-oversized-joggers-646450-1736252679-1.jpg",
+      "description": "Men's Winter Moss Green Oversized Joggers",
+      "price": "999",
+      "ratings": "4.5",
+      "lastPrice": "2499",
+      "discount": "60% OFF",
+      "category": "Joggers",
+      "size": "S",
+      "listImage": [
+        "https://images.bewakoof.com/t96/men-s-winter-moss-green-oversized-joggers-646450-1736252679-1.jpg",
+        "https://images.bewakoof.com/original/men-s-winter-moss-green-oversized-joggers-646450-1735895723-2.jpg",
+        "https://images.bewakoof.com/t96/men-s-winter-moss-green-oversized-joggers-646450-1735895728-3.jpg",
+        "https://images.bewakoof.com/t96/men-s-winter-moss-green-oversized-joggers-646450-1735895732-4.jpg",
+        "https://images.bewakoof.com/t96/men-s-winter-moss-green-oversized-joggers-646450-1735895736-5.jpg"
+      ]
+    },
+    {
+      "id": 18,
+      "image": "https://images.bewakoof.com/t640/men-s-brown-spider-man-truck-graphic-printed-oversized-hoodies-649950-1730119529-1.jpg",
+      "description": "Men's Brown Spider Man Truck Graphic Printed Oversized Hoodies",
+      "price": "999",
+      "ratings": "4.4",
+      "lastPrice": "2099",
+      "discount": "65% OFF",
+      "category": "Hoddies",
+      "size": "S",
+      "listImage": [
+        "https://images.bewakoof.com/t96/men-s-brown-spider-man-truck-graphic-printed-oversized-hoodies-649950-1730119529-1.jpg",
+        "https://images.bewakoof.com/original/men-s-brown-spider-man-truck-graphic-printed-oversized-hoodies-649950-1730119533-2.jpg",
+        "https://images.bewakoof.com/t96/men-s-brown-spider-man-truck-graphic-printed-oversized-hoodies-649950-1730119537-3.jpg",
+        "https://images.bewakoof.com/t96/men-s-brown-spider-man-truck-graphic-printed-oversized-hoodies-649950-1730119542-4.jpg",
+        "https://images.bewakoof.com/t96/men-s-brown-spider-man-truck-graphic-printed-oversized-hoodies-649950-1730119546-5.jpg"
+      ]
+    },
+    {
+      "id": 19,
+      "image": "https://images.bewakoof.com/t640/men-s-gardenia-cyber-samurai-graphic-printed-oversized-hoodies-625389-1732791916-1.jpg",
+      "description": "Men's Gardenia Cyber Samurai Graphic Printed Oversized Hoodies",
+      "price": "1299",
+      "ratings": "4.5",
+      "lastPrice": "2699",
+      "discount": "51% OFF",
+      "category": "Hoddies",
+      "size": "L",
+      "listImage": [
+        "https://images.bewakoof.com/t96/men-s-gardenia-cyber-samurai-graphic-printed-oversized-hoodies-625389-1732791916-1.jpg",
+        "https://images.bewakoof.com/original/men-s-gardenia-cyber-samurai-graphic-printed-oversized-hoodies-625389-1703688190-2.jpg",
+        "https://images.bewakoof.com/t96/men-s-gardenia-cyber-samurai-graphic-printed-oversized-hoodies-625389-1703688196-3.jpg",
+        "https://images.bewakoof.com/t96/men-s-gardenia-cyber-samurai-graphic-printed-oversized-hoodies-625389-1703688201-4.jpg",
+        "https://images.bewakoof.com/t96/men-s-gardenia-cyber-samurai-graphic-printed-oversized-hoodies-625389-1703688206-5.jpg"
+      ]
+    },
+    {
+      "id": 20,
+      "image": "https://images.bewakoof.com/t640/men-s-black-the-clown-prince-graphic-printed-oversized-hoodies-649967-1744287355-1.jpg",
+      "description": "Men's Black The Clown Prince Graphic Printed Oversized Hoodies",
+      "price": "999",
+      "ratings": "4.4",
+      "lastPrice": "2049",
+      "discount": "64% OFF",
+      "category": "Hoddies",
+      "size": "L",
+      "listImage": [
+        "https://images.bewakoof.com/t96/men-s-black-the-clown-prince-graphic-printed-oversized-hoodies-649967-1744287355-1.jpg",
+        "https://images.bewakoof.com/original/men-s-black-the-clown-prince-graphic-printed-oversized-hoodies-649967-1744287360-2.jpg",
+        "https://images.bewakoof.com/t96/men-s-black-the-clown-prince-graphic-printed-oversized-hoodies-649967-1744287364-3.jpg",
+        "https://images.bewakoof.com/t96/men-s-black-the-clown-prince-graphic-printed-oversized-hoodies-649967-1744287368-4.jpg",
+        "https://images.bewakoof.com/t96/men-s-black-the-clown-prince-graphic-printed-oversized-hoodies-649967-1744287373-5.jpg"
+      ]
+    },
+    {
+      "id": 21,
+      "image": "https://images.bewakoof.com/t640/men-s-blue-zipper-hoodies-363707-1732608660-1.jpg",
+      "description": "Men's Blue Zipper Hoodies",
+      "price": "1499",
+      "ratings": "4.8",
+      "lastPrice": "2599",
+      "discount": "42% OFF",
+      "category": "Hoddies",
+      "size": "XS",
+      "listImage": [
+        "https://images.bewakoof.com/t96/men-s-blue-zipper-hoodies-363707-1732608660-1.jpg",
+        "https://images.bewakoof.com/original/men-s-blue-zipper-hoodie-363707-1672410894-2.jpg",
+        "https://images.bewakoof.com/t96/men-s-blue-zipper-hoodie-363707-1672410899-3.jpg",
+        "https://images.bewakoof.com/t96/men-s-blue-zipper-hoodie-363707-1672410905-4.jpg",
+        "https://images.bewakoof.com/t96/men-s-blue-zipper-hoodie-363707-1672410910-5.jpg"
+      ]
+    },
+    {
+      "id": 22,
+      "image": "https://images.bewakoof.com/t640/men-s-beige-textured-oversized-parachute-pants-646482-1739948339-1.jpg",
+      "description": "Men's Beige Textured Oversized Parachute Pants",
+      "price": "1199",
+      "ratings": "4.4",
+      "lastPrice": "2699",
+      "discount": "55% OFF",
+      "category": "Pant",
+      "size": "M",
+      "listImage": [
+        "https://images.bewakoof.com/t96/men-s-beige-textured-oversized-parachute-pants-646482-1739948339-1.jpg",
+        "https://images.bewakoof.com/original/men-s-brown-textured-track-pants-646482-1735624116-2.jpg",
+        "https://images.bewakoof.com/t96/men-s-brown-textured-track-pants-646482-1735624125-4.jpg",
+        "https://images.bewakoof.com/t96/men-s-brown-textured-track-pants-646482-1735624129-5.jpg",
+        "https://images.bewakoof.com/t96/men-s-brown-textured-track-pants-646482-1735624133-6.jpg"
+      ]
+    },
+    {
+      "id": 23,
+      "image": "https://images.bewakoof.com/t640/men-s-jet-black-nylon-cargo-pants-648623-1743760881-1.jpg",
+      "description": "Men's Jet Black Nylon Cargo Parachute Pants",
+      "price": "1049",
+      "ratings": "4.4",
+      "lastPrice": "3799",
+      "discount": "72% OFF",
+      "category": "Pant",
+      "size": "M",
+      "listImage": [
+        "https://images.bewakoof.com/t96/men-s-jet-black-nylon-cargo-pants-648623-1743760881-1.jpg",
+        "https://images.bewakoof.com/original/men-s-jet-black-cargo-pants-648623-1740642844-2.jpg",
+        "https://images.bewakoof.com/t96/men-s-jet-black-cargo-pants-648623-1740642849-3.jpg",
+        "https://images.bewakoof.com/t96/men-s-jet-black-cargo-pants-648623-1740642853-4.jpg",
+        "https://images.bewakoof.com/t96/men-s-jet-black-cargo-pants-648623-1740642857-5.jpg"
+      ]
+    },
+    {
+      "id": 24,
+      "image": "https://images.bewakoof.com/t640/men-s-olive-green-cargo-pants-648619-1742391222-1.jpg",
+      "description": "Men's Olive Green Nylon Cargo Parachute Pants",
+      "price": "1199",
+      "ratings": "4.5",
+      "lastPrice": "3799",
+      "discount": "68% OFF",
+      "category": "Pant",
+      "size": "L",
+      "listImage": [
+        "https://images.bewakoof.com/t96/men-s-olive-green-cargo-pants-648619-1742391222-1.jpg",
+        "https://images.bewakoof.com/original/men-s-olive-green-cargo-pants-648619-1742391226-2.jpg",
+        "https://images.bewakoof.com/t96/men-s-olive-green-cargo-pants-648619-1742391230-4.jpg",
+        "https://images.bewakoof.com/t96/men-s-olive-green-cargo-pants-648619-1742391235-5.jpg",
+        "https://images.bewakoof.com/t96/men-s-olive-green-cargo-pants-648619-1742391239-6.jpg"
+      ]
+    },
+    {
+      "id": 25,
+      "image": "https://images.bewakoof.com/t640/men-s-chocolate-brown-textured-oversized-parachute-pants-646483-1743760827-1.jpg",
+      "description": "Men's Chocolate Brown Textured Oversized Parachute Pants",
+      "price": "1049",
+      "ratings": "4.4",
+      "lastPrice": "2699",
+      "discount": "61% OFF",
+      "category": "Pant",
+      "size": "XS",
+      "listImage": [
+        "https://images.bewakoof.com/t96/men-s-chocolate-brown-textured-oversized-parachute-pants-646483-1743760827-1.jpg",
+        "https://images.bewakoof.com/original/men-s-chocolate-brown-textured-track-pants-646483-1734504092-2.jpg",
+        "https://images.bewakoof.com/t96/men-s-chocolate-brown-textured-track-pants-646483-1734504097-4.jpg",
+        "https://images.bewakoof.com/t96/men-s-chocolate-brown-textured-track-pants-646483-1734504102-5.jpg",
+        "https://images.bewakoof.com/t96/men-s-chocolate-brown-textured-track-pants-646483-1734504106-6.jpg"
+      ]
+    }
+  ],
+  "cart": [
+    {
+      "id": 10,
+      "image": "https://images.bewakoof.com/t640/men-s-white-typography-oversized-shirt-660888-1750069120-1.jpg",
+      "description": "Men's White Typography Oversized Shirt",
+      "price": "1499",
+      "ratings": "4.5",
+      "category": "Shirt",
+      "size": "M",
+      "listImage": [
+        "https://images.bewakoof.com/t96/men-s-white-typography-oversized-shirt-660888-1750069120-1.jpg",
+        "https://images.bewakoof.com/original/men-s-white-typography-oversized-shirt-660888-1750069125-2.jpg",
+        "https://images.bewakoof.com/t96/men-s-white-typography-oversized-shirt-660888-1750069139-5.jpg",
+        "https://images.bewakoof.com/t96/men-s-white-typography-oversized-shirt-660888-1750069144-6.jpg",
+        "https://images.bewakoof.com/t96/men-s-white-typography-oversized-shirt-660888-1750069148-7.jpg"
+      ],
+      "quantity": 5
+    }
+  ],
+  "user": [
+    {
+      "name": "Shivam",
+      "email": "shivammauryavines@gmail.com",
+      "password": "shivam87801",
+      "id": 1
+    },
+    {
+      "name": "ketul",
+      "email": "ketul123@gmail.com",
+      "password": "shivam87801",
+      "id": 2
+    },
+    {
+      "name": "Rishi",
+      "email": "rishi123@gmail.com",
+      "password": "shivam87801",
+      "id": 3
+    },
+    {
+      "name": "diwakar sir",
+      "email": "diwakar123@gmail.com",
+      "password": "shivam87801",
+      "id": 4
+    }
+  ]
+}
